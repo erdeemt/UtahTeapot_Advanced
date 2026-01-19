@@ -1,0 +1,25 @@
+# Visual Studio Gereksiz Dosyaları
+.vs/
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+
+# Derleme Çıktıları
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.ipch
+*.sdf
+*.sln.doccache
+
+# İşletim Sistemi Dosyaları
+Thumbs.db
+Desktop.ini
