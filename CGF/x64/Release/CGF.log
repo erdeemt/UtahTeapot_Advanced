@@ -1,0 +1,10 @@
+﻿  utah_teapot.cpp
+E:\dersler\CGFINAL\CGF\CGF\utah_teapot.cpp(77,30): warning C4305: 'bağımsız değişken': 'double' iken 'GLclampf' olarak kesildi
+E:\dersler\CGFINAL\CGF\CGF\utah_teapot.cpp(77,24): warning C4305: 'bağımsız değişken': 'double' iken 'GLclampf' olarak kesildi
+E:\dersler\CGFINAL\CGF\CGF\utah_teapot.cpp(77,18): warning C4305: 'bağımsız değişken': 'double' iken 'GLclampf' olarak kesildi
+  Kod üretiliyor
+  32 of 33 functions (97.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  CGF.vcxproj -> E:\dersler\CGFINAL\CGF\x64\Release\CGF.exe
